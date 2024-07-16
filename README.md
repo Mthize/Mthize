@@ -1,11 +1,11 @@
-## Thapelo Mthize Porfolio
+## <h1>Thapelo Mthize👨‍💻 Porfolio<h1>
 
 # Portfolio
 
 Hi, I'm Thapelo and this is My Cyber Security Portfolio encapsulates a comprehensive range of technical skills, strategic leadership in cybersecurity, and a proven track record of delivering impactful results. I am currently seeking a challenging position where I can leverage these strengths to protect and innovate within an organization committed to excellence in cybersecurity.
 
 
-# Project Overview 
+# 🛡️Project Overview 🛡️
 |     Project     |                 Skills                |     Tools       |      Link       |
 | --------------- | ------------------------------------- | --------------- | --------------- |
 | Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[">SIEM</a>   |
@@ -13,7 +13,7 @@ Hi, I'm Thapelo and this is My Cyber Security Portfolio encapsulates a comprehen
 |                 |                                       |                 |                 |
 
 
-# Certifications 
+# Certifications 🎓
 List our your certifications and/or link to them. Also include the ones you plan on doing!
 
 |     Certification     |               Completed?               |     Link       |
