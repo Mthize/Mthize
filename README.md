@@ -1,30 +1,61 @@
-## <h1>Thapelo Mthize👨‍💻 Porfolio<h1>
+# Thapelo Mthize 👨‍💻 - Cybersecurity Portfolio
 
-# Portfolio
+Welcome to my cybersecurity portfolio! I’m Thapelo Mthize, a dedicated cybersecurity professional with 2 years of experience in Technical Support, Technical Writing, and Cloud Security. I am actively seeking an entry-level position in the cybersecurity field where I can apply my diverse skills and contribute to a forward-thinking team focused on securing and innovating within the digital landscape.
 
-Hi, I'm Thapelo and this is My Cyber Security Portfolio encapsulates a comprehensive range of technical skills, strategic leadership in cybersecurity, and a proven track record of delivering impactful results. I am currently seeking a challenging position where I can leverage these strengths to protect and innovate within an organization committed to excellence in cybersecurity.
+## 🛡️ Projects Overview
 
+### SIEM Implementation
 
-# 🛡️Project Overview 🛡️
-|     Project     |                 Skills                |     Tools       |      Link       |
-| --------------- | ------------------------------------- | --------------- | --------------- |
-| Building a SIEM | Log management, Security Archtecture  | LogRhythm, Azure|  <a href="[">SIEM</a>   |
-|                 |                                       |                 |                 |
-|                 |                                       |                 |                 |
+- **Description:** Designed and implemented a Security Information and Event Management (SIEM) system to enhance log management and improve threat detection capabilities.
+- **Skills:** Log Management, Security Architecture, Incident Response
+- **Tools:** LogRhythm, Azure
+- **[View Project](#)**
 
+### [Additional Projects]
 
-# Certifications 🎓
-List our your certifications and/or link to them. Also include the ones you plan on doing!
+Here are a few more notable projects I have worked on:
 
-|     Certification     |               Completed?               |     Link       |
-| --------------------  | -------------------------------------- | ---------------| 
-| CompTIA Security+     |                xx/xx/xx                |     xxx  
-| Certified REST Engineer|              2024-07-15               |    <a href="[https://credential.certifyme.online/verify/98dc935914748">REST</a>    |
-| Certified SOC Analyst |               2024-07-07               |    <a href="[https://my.certifyme.online/verify/4835b7b914380">SOC Analyst</a>     |
-| SOC Analyst Career    |               2024-07-07               |    <a href="[https://my.certifyme.online/verify/a7cd13a714565">SOC Analyst Career</a> |
-| Threat Intelligence   |               2024-05-11               |    <a href="[https://arcx.io/verify-certificate?id=ee14644981bc3b3a869053198cc84e681d79f733&k=668b536de14144649f2b9272979006b3">Threat Intelligence</a> |
-| Ethical Hacking Essentials |          2024-04-15               |     xxx        |
-|  Network Security Expert |            2024-04-20               |    <a href="[https://training.fortinet.com/admin/tool/certificate/index.php">Network Security</a> |
-|  Asset Management     |               2024-03-31               |    xxx         |
-|  GoogleIT Support     |               2024-02-28               |    <a href="[https://www.credly.com/badges/60c84266-de42-487c-801b-e0c480862af6/linked_in_profile">IT Support</a> |
-| CompTIA Network+      |               xx/xx/xx                 |    xxx         |
+| **Project**         | **Description**                                                                 | **Skills**                      | **Tools**         | **Link**  |
+|---------------------|---------------------------------------------------------------------------------|---------------------------------|-------------------|-----------|
+| **Project Title 1** | Brief description of the project.                                                | Skills Used                      | Tools Used        | [Link](#) |
+| **Project Title 2** | Brief description of the project.                                                | Skills Used                      | Tools Used        | [Link](#) |
+| **Project Title 3** | Brief description of the project.                                                | Skills Used                      | Tools Used        | [Link](#) |
+
+## 🎓 Certifications
+
+I hold several industry-recognized certifications and am continuously working towards acquiring new skills. Below is a list of my certifications:
+
+| **Certification**                   | **Date Completed** | **Link**   |
+|------------------------------------ |--------------------|------------|
+| CompTIA Security+                   | xx/xx/xx           | [Link](#)  |
+| Certified REST Engineer              | 2024-07-15         | [REST](https://credential.certifyme.online/verify/98dc935914748) |
+| Certified SOC Analyst               | 2024-07-07         | [SOC Analyst](https://my.certifyme.online/verify/4835b7b914380) |
+| SOC Analyst Career                  | 2024-07-07         | [Career](https://my.certifyme.online/verify/a7cd13a714565) |
+| Threat Intelligence                 | 2024-05-11         | [Threat Intelligence](https://arcx.io/verify-certificate?id=ee14644981bc3b3a869053198cc84e681d79f733&k=668b536de14144649f2b9272979006b3) |
+| Ethical Hacking Essentials          | 2024-04-15         | [Link](#)  |
+| Network Security Expert             | 2024-04-20         | [Network Security](https://training.fortinet.com/admin/tool/certificate/index.php) |
+| Asset Management                    | 2024-03-31         | [Link](#)  |
+| Google IT Support                   | 2024-02-28         | [IT Support](https://www.credly.com/badges/60c84266-de42-487c-801b-e0c480862af6/linked_in_profile) |
+| CompTIA Network+                    | xx/xx/xx           | [Link](#)  |
+
+## 🌟 Skills and Expertise
+
+- **Technical Skills:** Cybersecurity Strategy, Incident Response, Threat Analysis, Vulnerability Assessment, Log Management, Cloud Security
+- **Tools:** LogRhythm, Azure, SIEM, Fortinet, Various Network Security Tools
+- **Soft Skills:** Technical Support, Technical Writing, Strategic Leadership, Problem-Solving, Communication, Team Collaboration
+
+## 📚 Blog & Publications
+
+Check out my blog for insights on cybersecurity trends, tutorials, and more:
+
+- **[Blog Title 1](#)** - A brief description of the blog post.
+- **[Blog Title 2](#)** - A brief description of the blog post.
+
+## 🌐 Connect with Me
+
+I’d love to connect with other cybersecurity professionals and enthusiasts. Feel free to reach out to me via:
+
+- [LinkedIn](http://linkedin.com/in/thapelomthize)
+- [Email](mailto:mthizethapelo@icloud.com)
+
+Thank you for visiting my portfolio. Let’s connect and explore how we can work together to advance the field of cybersecurity!
