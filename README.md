@@ -17,9 +17,9 @@ Here are a few more notable projects I have worked on:
 
 | **Project**         | **Description**                                                                 | **Skills**                      | **Tools**         | **Link**  |
 |---------------------|---------------------------------------------------------------------------------|---------------------------------|-------------------|-----------|
-| **Project Title 1** | Brief description of the project.                                                | Skills Used                      | Tools Used        | [Link](#) |
-| **Project Title 2** | Brief description of the project.                                                | Skills Used                      | Tools Used        | [Link](#) |
-| **Project Title 3** | Brief description of the project.                                                | Skills Used                      | Tools Used        | [Link](#) |
+| **Controls-and-Compliance-Assessment** | Case Study.                                                  | Auditing security               | Research       | [Link](https://github.com/Mthize/Controls-and-Compliance-Assessment-Case.git) |
+| **Project Title 2** | Brief description of the project.                                               | Skills Used                     | Tools Used        | [Link](#) |
+| **Project Title 3** | Brief description of the project.                                               | Skills Used                     | Tools Used        | [Link](#) |
 
 ## 🎓 Certifications
 
