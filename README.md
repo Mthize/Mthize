@@ -48,7 +48,7 @@ I hold several industry-recognized certifications and am continuously working to
 
 Check out my blog for insights on cybersecurity trends, tutorials, and more:
 
-- **[Blog Title 1](https://www.linkedin.com/pulse/cyber-threats-attacks-understanding-modern-digital-thapelo-mthize-d1aze)** - In today's digital age, cyber threats are on the rise, posing significant risks.
+- **[Understanding the Modern Digital Battlefield](https://www.linkedin.com/pulse/cyber-threats-attacks-understanding-modern-digital-thapelo-mthize-d1aze)** - In today's digital age, cyber threats are on the rise, posing significant risks.
 - **[Blog Title 2](#)** - A brief description of the blog post.
 
 ## 🌐 Connect with Me
