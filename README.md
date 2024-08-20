@@ -55,7 +55,10 @@ Check out my blog for insights on cybersecurity trends, tutorials, and more:
 
 I’d love to connect with other cybersecurity professionals and enthusiasts. Feel free to reach out to me via:
 
-- [LinkedIn](http://linkedin.com/in/thapelomthize)
-- [Email](mailto:mthizethapelo@icloud.com)
+# Connect with Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/thapelomthize)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mthizethapelo@icloud.com)
+
 
 Thank you for visiting my portfolio. Let’s connect and explore how we can work together to advance the field of cybersecurity!
