@@ -17,8 +17,8 @@ Here are a few more notable projects I have worked on:
 
 | **Project**         | **Description**                                                                 | **Skills**                      | **Tools**         | **Link**  |
 |---------------------|---------------------------------------------------------------------------------|---------------------------------|-------------------|-----------|
-| **Controls-and-Compliance-Assessment** | Case Study.                                                  | Auditing security               | Research       | [Link](https://github.com/Mthize/Controls-and-Compliance-Assessment-Case.git) |
-| **Project Title 2** | Brief description of the project.                                               | Skills Used                     | Tools Used        | [Link](#) |
+| **Controls-and-Compliance-Assessment** | Case Study.                                                  | Auditing security               | Research          | [Link](https://github.com/Mthize/Controls-and-Compliance-Assessment-Case.git) |
+| **SSDP Botnet Detection** | Simple Service Discovery Protocol (SSDP).                                 | Mitigation, and Prevention                          | command and control (C&C)        | [Link](https://github.com/Mthize/SSDP-Botnet-Detection.git) |
 | **Project Title 3** | Brief description of the project.                                               | Skills Used                     | Tools Used        | [Link](#) |
 
 ## 🎓 Certifications
