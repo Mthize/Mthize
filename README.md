@@ -9,7 +9,7 @@ Welcome to my cybersecurity portfolio! I’m Thapelo Mthize, a dedicated cyberse
 - **Description:** Designed and implemented a Security Information and Event Management (SIEM) system to enhance log management and improve threat detection capabilities.
 - **Skills:** Log Management, Security Architecture, Incident Response
 - **Tools:** LogRhythm, Azure
-- **[View Project](#)**
+- **[View Project](https://github.com/Mthize/SIEM-Chronicle.git)**
 
 ### [Additional Projects]
 
