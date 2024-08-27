@@ -49,7 +49,7 @@ I hold several industry-recognized certifications and am continuously working to
 Check out my blog for insights on cybersecurity trends, tutorials, and more:
 
 - **[Understanding the Modern Digital Battlefield](https://www.linkedin.com/pulse/cyber-threats-attacks-understanding-modern-digital-thapelo-mthize-d1aze)** - In today's digital age, cyber threats are on the rise, posing significant risks.
-- **[Blog Title 2](#)** - A brief description of the blog post.
+- **[SSDP Botnets: The Cyber Threat Hiding in Plain Sight](https://www.linkedin.com/pulse/ssdp-botnets-silent-threat-lurking-your-network-thapelo-mthize-ewrif)** - Imagine a quiet army of smart home devices—your thermostat, your security cameras.
 
 ## 🌐 Connect with Me
 
