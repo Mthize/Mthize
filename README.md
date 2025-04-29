@@ -2,7 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Thapelo!;Cybersecurity+Expert+%26+Backend+Dev+in+Progress;Let's+build+secure+apps+together!)](https://git.io/typing-svg)
 
-![Header Banner](https://github.com/Mthize/Mthize/blob/main/banner.png)
+![Header Banner](https://github.com/Mthize/Mthize/blob/main/A_digital_graphic_design_banner_features_Thapelo_M.png?raw=true)
+
 
 ---
 
