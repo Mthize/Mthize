@@ -2,6 +2,8 @@
 
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Thapelo!;Cybersecurity+Expert+%26+Backend+Dev+in+Progress;Let's+build+secure+apps+together!)](https://git.io/typing-svg)
 
+![Header Banner](https://github.com/Mthize/Mthize/blob/main/banner.png)
+
 ---
 
 ## 🛡️ Cybersecurity Projects
@@ -17,14 +19,15 @@
 
 ## ⚙️ Backend Projects in Progress 🚧
 
-> 🧪 Currently learning **Node.js**, **Express**, **MongoDB**, and **REST APIs**.  
+> 🧪 Currently learning **Node.js**, **Express**, **MongoDB**, **Spring Boot**, and **REST APIs**.  
 > 🔐 Integrating secure coding practices from day one.
 
-| **Project**              | **Description**                         | **Status**   | **Tech Stack**             |
-|--------------------------|-----------------------------------------|--------------|----------------------------|
-| Auth API Demo            | User authentication with JWT and bcrypt| 🔄 In Progress | Node.js, Express, MongoDB  |
-| API Rate Limiter         | Secure rate limiting to prevent abuse  | 🔄 In Progress | Express, Redis             |
-| Backend Security Checklist | Custom middleware for securing APIs   | 🔄 In Progress | Node.js, Helmet.js         |
+| **Project**              | **Description**                         | **Status**   | **Tech Stack**                  |
+|--------------------------|-----------------------------------------|--------------|----------------------------------|
+| Auth API Demo            | User authentication with JWT and bcrypt| 🔄 In Progress | Node.js, Express, MongoDB        |
+| Spring Boot API Template | RESTful service with security headers  | 🔄 In Progress | Java, Spring Boot, Maven         |
+| API Rate Limiter         | Secure rate limiting to prevent abuse  | 🔄 In Progress | Express, Redis                   |
+| Backend Security Checklist | Custom middleware for securing APIs   | 🔄 In Progress | Node.js, Helmet.js               |
 
 ---
 
@@ -43,12 +46,33 @@
 
 ## 💡 Skills & Expertise
 
-![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,azure,docker,linux,python,git,github,vscode)
+![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,spring,java,azure,docker,linux,python,git,github,vscode)
 
 - 🛡 Cybersecurity Strategy, Incident Response, Threat Intelligence
-- ⚙️ Backend Development (Node.js, Express, REST APIs)
+- ⚙️ Backend Development (Node.js, Express, Spring Boot, REST APIs)
 - ☁️ Cloud Security (Azure, Fortinet)
 - 📚 Technical Writing & Documentation
+
+---
+
+## 📊 GitHub Stats & Widgets
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mthize&show_icons=true&theme=tokyonight&hide_border=false" height="180px"/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mthize&theme=tokyonight" height="180px"/>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mthize&theme=monokai" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mthize&label=Visitors+since+2024&color=0e75b6&style=flat-square" alt="visitor badge"/>
+</div>
 
 ---
 
