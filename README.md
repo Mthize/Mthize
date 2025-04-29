@@ -1,14 +1,16 @@
 # 👨‍💻 Thapelo Mthize – Cybersecurity & Backend Portfolio
 
+![Cyber Shield](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&width=435&lines=Cybersecurity+%7C+Backend+Developer+in+Training;Technical+Support+%7C+SIEM+%7C+Cloud+Security;Let%27s+Secure+the+Future+Together!+🚀)
+
 Hi, I'm **Thapelo Mthize**, a passionate and growth-driven **Cybersecurity Analyst** and **Backend Developer in training**. With 2+ years of experience in technical support, technical writing, and cloud security, I’m currently expanding my skill set to backend development to offer holistic solutions across both security and software development. I thrive at the intersection of tech, innovation, and defense.
 
 ---
 
 ## 🧠 What I Bring to the Table
 
-- 🔐 **Cybersecurity**: Threat detection, SIEM integration, and cloud security
-- 🛠️ **Backend Development**: Learning API design, RESTful services, databases, and authentication
-- ☁️ **Cloud & Infrastructure**: Azure, Fortinet, SIEM, and DevSecOps principles
+- 🔐 **Cybersecurity**: Threat detection, SIEM integration, and cloud security  
+- 🛠️ **Backend Development**: API design, RESTful services, databases, and authentication (in progress)  
+- ☁️ **Cloud & Infrastructure**: Azure, Fortinet, SIEM, and DevSecOps principles  
 - ✍️ **Technical Writing**: Clear documentation, tutorials, and blogs
 
 ---
@@ -24,7 +26,6 @@ Hi, I'm **Thapelo Mthize**, a passionate and growth-driven **Cybersecurity Analy
 ### 🌐 SSDP Botnet Detection  
 **Description:** Developed a tool to simulate and detect SSDP-based botnet traffic.  
 **Skills:** Botnet Analysis, Network Security  
-**Tools:** Bash, C2 Infrastructure  
 👉 [View Project](https://github.com/Mthize/SSDP-Botnet-Detection.git)
 
 ### 📊 Controls & Compliance Case Study  
@@ -85,7 +86,7 @@ Hi, I'm **Thapelo Mthize**, a passionate and growth-driven **Cybersecurity Analy
 
 ---
 
-## 📝 Blog & Publications
+## ✍️ Blog & Publications
 
 - 📘 [Understanding the Modern Digital Battlefield](https://www.linkedin.com/pulse/cyber-threats-attacks-understanding-modern-digital-thapelo-mthize-d1aze)  
 - 📘 [SSDP Botnets: The Cyber Threat Hiding in Plain Sight](https://www.linkedin.com/pulse/ssdp-botnets-silent-threat-lurking-your-network-thapelo-mthize-ewrif)
@@ -94,10 +95,21 @@ Hi, I'm **Thapelo Mthize**, a passionate and growth-driven **Cybersecurity Analy
 
 ## 🌐 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/thapelomthize)  
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mthizethapelo@icloud.com)  
-[![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thapelo-mthize)
+<div align="center">
+  <a href="http://linkedin.com/in/thapelomthize">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+  </a>
+  <a href="mailto:mthizethapelo@icloud.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+  </a>
+  <a href="https://www.credly.com/users/thapelo-mthize">
+    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
+  </a>
+</div>
 
 ---
 
-💬 Thank you for visiting my portfolio! Let’s collaborate on building secure and scalable solutions for tomorrow.
+### ⚡ Fun Fact
+> I’m currently building my first full-stack secure web app, where security meets backend logic.
+
+Thanks for visiting my portfolio! Let's connect and explore how we can build secure, scalable systems together. 👊
