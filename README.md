@@ -1,66 +1,103 @@
-# Thapelo Mthize 👨‍💻 - Cybersecurity Portfolio
+# 👨‍💻 Thapelo Mthize – Cybersecurity & Backend Portfolio
 
-Welcome to my cybersecurity portfolio! I’m Thapelo Mthize, a dedicated cybersecurity professional with 2 years of experience in Technical Support, Technical Writing, and Cloud Security. I am actively seeking an entry-level position in the cybersecurity field where I can apply my diverse skills and contribute to a forward-thinking team focused on securing and innovating within the digital landscape.
+Hi, I'm **Thapelo Mthize**, a passionate and growth-driven **Cybersecurity Analyst** and **Backend Developer in training**. With 2+ years of experience in technical support, technical writing, and cloud security, I’m currently expanding my skill set to backend development to offer holistic solutions across both security and software development. I thrive at the intersection of tech, innovation, and defense.
 
-## 🛡️ Projects Overview
+---
 
-### SIEM Implementation
+## 🧠 What I Bring to the Table
 
-- **Description:** Designed and implemented a Security Information and Event Management (SIEM) system to enhance log management and improve threat detection capabilities.
-- **Skills:** Log Management, Security Architecture, Incident Response
-- **Tools:** LogRhythm, Azure
-- **[View Project](https://github.com/Mthize/SIEM-Chronicle.git)**
+- 🔐 **Cybersecurity**: Threat detection, SIEM integration, and cloud security
+- 🛠️ **Backend Development**: Learning API design, RESTful services, databases, and authentication
+- ☁️ **Cloud & Infrastructure**: Azure, Fortinet, SIEM, and DevSecOps principles
+- ✍️ **Technical Writing**: Clear documentation, tutorials, and blogs
 
-### [Additional Projects]
+---
 
-Here are a few more notable projects I have worked on:
+## 🚀 Featured Projects
 
-| **Project**         | **Description**                                                                 | **Skills**                      | **Tools**         | **Link**  |
-|---------------------|---------------------------------------------------------------------------------|---------------------------------|-------------------|-----------|
-| **Controls-and-Compliance-Assessment** | Case Study.                                                  | Auditing security               | Research          | [Link](https://github.com/Mthize/Controls-and-Compliance-Assessment-Case.git) |
-| **SSDP Botnet Detection** | Simple Service Discovery Protocol (SSDP)                                  | Mitigation, and Prevention                          | command and control (C&C)        | [Link](https://github.com/Mthize/SSDP-Botnet-Detection.git) |
-| **Phishing Detection** | Simulated Phishing Scenario.                                            | phishing scenarios               | Detection        | [Link](https://github.com/Mthize/PhishingDetectionTrainer.git) |
+### 🔐 SIEM Implementation  
+**Description:** Designed and deployed a SIEM system to streamline log collection and threat detection.  
+**Skills:** Log Management, Incident Response, Threat Detection  
+**Tools:** LogRhythm, Azure  
+👉 [View Project](https://github.com/Mthize/SIEM-Chronicle.git)
+
+### 🌐 SSDP Botnet Detection  
+**Description:** Developed a tool to simulate and detect SSDP-based botnet traffic.  
+**Skills:** Botnet Analysis, Network Security  
+**Tools:** Bash, C2 Infrastructure  
+👉 [View Project](https://github.com/Mthize/SSDP-Botnet-Detection.git)
+
+### 📊 Controls & Compliance Case Study  
+**Description:** Deep dive into auditing frameworks and security policy analysis.  
+**Skills:** Compliance, Security Auditing  
+👉 [View Project](https://github.com/Mthize/Controls-and-Compliance-Assessment-Case.git)
+
+### 🐟 Phishing Detection Simulator  
+**Description:** A tool for training and simulating phishing attacks.  
+**Skills:** Email Security, Social Engineering  
+👉 [View Project](https://github.com/Mthize/PhishingDetectionTrainer.git)
+
+---
+
+## 🛠️ Backend in Progress – Dev Projects
+
+### 🔧 RESTful User API (WIP)
+**Description:** A Node.js API for user management with token-based authentication.  
+**Tech Stack:** Node.js, Express, MongoDB, JWT  
+👉 [Coming Soon](#)
+
+### 💾 Blog API (WIP)
+**Description:** Backend for a tech blog platform with CRUD operations.  
+**Tech Stack:** Python, Django REST Framework, SQLite  
+👉 [Coming Soon](#)
+
+---
 
 ## 🎓 Certifications
 
-I hold several industry-recognized certifications and am continuously working towards acquiring new skills. Below is a list of my certifications:
+| Certification                     | Date         | Link |
+|----------------------------------|--------------|------|
+| CompTIA Security+                | In Progress  | [Link](#) |
+| Certified REST Engineer          | 2024-07-15   | [Verify](https://credential.certifyme.online/verify/98dc935914748) |
+| Certified SOC Analyst            | 2024-07-07   | [Verify](https://my.certifyme.online/verify/4835b7b914380) |
+| SOC Analyst Career Path          | 2024-07-07   | [Verify](https://my.certifyme.online/verify/a7cd13a714565) |
+| Threat Intelligence              | 2024-05-11   | [Verify](https://arcx.io/verify-certificate?id=ee14644981bc3b3a869053198cc84e681d79f733&k=668b536de14144649f2b9272979006b3) |
+| Network Security Expert (NSE 1)  | 2024-04-20   | [Fortinet](https://training.fortinet.com/admin/tool/certificate/index.php) |
+| Google IT Support                | 2024-02-28   | [Verify](https://www.credly.com/badges/60c84266-de42-487c-801b-e0c480862af6/linked_in_profile) |
 
-| **Certification**                   | **Date Completed** | **Link**   |
-|------------------------------------ |--------------------|------------|
-| CompTIA Security+                   | xx/xx/xx           | [Link](#)  |
-| Certified REST Engineer              | 2024-07-15         | [REST](https://credential.certifyme.online/verify/98dc935914748) |
-| Certified SOC Analyst               | 2024-07-07         | [SOC Analyst](https://my.certifyme.online/verify/4835b7b914380) |
-| SOC Analyst Career                  | 2024-07-07         | [Career](https://my.certifyme.online/verify/a7cd13a714565) |
-| Threat Intelligence                 | 2024-05-11         | [Threat Intelligence](https://arcx.io/verify-certificate?id=ee14644981bc3b3a869053198cc84e681d79f733&k=668b536de14144649f2b9272979006b3) |
-| Ethical Hacking Essentials          | 2024-04-15         | [Link](#)  |
-| Network Security Expert             | 2024-04-20         | [Network Security](https://training.fortinet.com/admin/tool/certificate/index.php) |
-| Asset Management                    | 2024-03-31         | [Link](#)  |
-| Google IT Support                   | 2024-02-28         | [IT Support](https://www.credly.com/badges/60c84266-de42-487c-801b-e0c480862af6/linked_in_profile) |
-| CompTIA Network+                    | xx/xx/xx           | [Link](#)  |
+---
 
-## 🌟 Skills and Expertise
+## 💡 Skills Snapshot
 
-- **Technical Skills:** Cybersecurity Strategy, Incident Response, Threat Analysis, Vulnerability Assessment, Log Management, Cloud Security
-- **Tools:** LogRhythm, Azure, SIEM, Fortinet, Various Network Security Tools
-- **Soft Skills:** Technical Support, Technical Writing, Strategic Leadership, Problem-Solving, Communication, Team Collaboration
+### 🔐 Cybersecurity
+- Incident Response, Threat Intelligence, Vulnerability Management
+- SIEM, Compliance Auditing, Cloud Security (Azure, Fortinet)
 
-## 📚 Blog & Publications
+### 🧪 Backend Development
+- Node.js, Express, Django (in progress)
+- REST APIs, MongoDB, PostgreSQL, JWT, Auth
 
-Check out my blog for insights on cybersecurity trends, tutorials, and more:
+### 🧰 Tools & Platforms
+- Wireshark, Burp Suite, Metasploit, Azure, Git, VS Code, Postman
 
-- **[Understanding the Modern Digital Battlefield](https://www.linkedin.com/pulse/cyber-threats-attacks-understanding-modern-digital-thapelo-mthize-d1aze)** - In today's digital age, cyber threats are on the rise, posing significant risks.
-- **[SSDP Botnets: The Cyber Threat Hiding in Plain Sight](https://www.linkedin.com/pulse/ssdp-botnets-silent-threat-lurking-your-network-thapelo-mthize-ewrif)** - Imagine a quiet army of smart home devices—your thermostat, your security cameras.
+### 🌟 Soft Skills
+- Analytical Thinking, Documentation, Client Support, Team Collaboration
 
-## 🌐 Connect with Me
+---
 
-I’d love to connect with other cybersecurity professionals and enthusiasts. Feel free to reach out to me via:
+## 📝 Blog & Publications
 
-# Connect with Me
+- 📘 [Understanding the Modern Digital Battlefield](https://www.linkedin.com/pulse/cyber-threats-attacks-understanding-modern-digital-thapelo-mthize-d1aze)  
+- 📘 [SSDP Botnets: The Cyber Threat Hiding in Plain Sight](https://www.linkedin.com/pulse/ssdp-botnets-silent-threat-lurking-your-network-thapelo-mthize-ewrif)
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/thapelomthize)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mthizethapelo@icloud.com)
+---
+
+## 🌐 Connect With Me
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](http://linkedin.com/in/thapelomthize)  
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:mthizethapelo@icloud.com)  
 [![Credly](https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white)](https://www.credly.com/users/thapelo-mthize)
 
+---
 
-
-Thank you for visiting my portfolio. Let’s connect and explore how we can work together to advance the field of cybersecurity!
+💬 Thank you for visiting my portfolio! Let’s collaborate on building secure and scalable solutions for tomorrow.
