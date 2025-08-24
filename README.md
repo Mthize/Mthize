@@ -1,103 +1,47 @@
-# 👨‍💻 Thapelo Mthize — Cybersecurity Analyst | Backend Developer (In Progress)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&duration=4000&pause=1000&color=00F7FF&center=true&vCenter=true&width=600&lines=👋+Hey+there%2C+I'm+Thapelo!;Cybersecurity+Expert+%26+Backend+Dev+in+Progress;Let's+build+secure+apps+together!)](https://git.io/typing-svg)
-
-
----
-
-## 🛡️ Cybersecurity Projects
-
-| **Project**         | **Description**                                           | **Skills**                      | **Tools**           | **Link**  |
-|---------------------|-----------------------------------------------------------|----------------------------------|---------------------|-----------|
-| SIEM Implementation | Built a SIEM using LogRhythm to monitor and detect threats | Log Management, Incident Response | Azure, LogRhythm     | [View](https://github.com/Mthize/SIEM-Chronicle.git) |
-| Compliance Assessment | Security controls and auditing case study                | Compliance, Security Strategy    | NIST Framework       | [View](https://github.com/Mthize/Controls-and-Compliance-Assessment-Case.git) |
-| SSDP Botnet Detection | Detect and mitigate botnet attacks via SSDP protocol     | Threat Prevention, Analysis      | C&C, Network Tools   | [View](https://github.com/Mthize/SSDP-Botnet-Detection.git) |
-| Phishing Simulator   | Created a training simulation for phishing attacks        | Awareness, Email Security        | Simulated Payloads   | [View](https://github.com/Mthize/PhishingDetectionTrainer.git) |
-
----
-
-## ⚙️ Backend Projects in Progress 🚧
-
-> 🧪 Currently learning **Node.js**, **Express**, **MongoDB**, **Spring Boot**, and **REST APIs**.  
-> 🔐 Integrating secure coding practices from day one.
-
-| **Project**              | **Description**                         | **Status**   | **Tech Stack**                  |
-|--------------------------|-----------------------------------------|--------------|----------------------------------|
-| Auth API Demo            | User authentication with JWT and bcrypt| 🔄 In Progress | Node.js, Express, MongoDB        |
-| Spring Boot API Template | RESTful service with security headers  | 🔄 In Progress | Java, Spring Boot, Maven         |
-| API Rate Limiter         | Secure rate limiting to prevent abuse  | 🔄 In Progress | Express, Redis                   |
-| Backend Security Checklist | Custom middleware for securing APIs   | 🔄 In Progress | Node.js, Helmet.js               |
-
----
-
-## 📜 Certifications
-
-| Certification                    | Date         | Link |
-|----------------------------------|--------------|------|
-| CompTIA Security+ (Pending)      | xx/xx/xx     | [Link](#) |
-| Certified REST Engineer          | 2024-07-15   | [REST](https://credential.certifyme.online/verify/98dc935914748) |
-| Certified SOC Analyst            | 2024-07-07   | [Link](https://my.certifyme.online/verify/4835b7b914380) |
-| Threat Intelligence              | 2024-05-11   | [Link](https://arcx.io/verify-certificate?id=ee14644981bc3b3a869053198cc84e681d79f733&k=668b536de14144649f2b9272979006b3) |
-| Network Security Expert          | 2024-04-20   | [Link](https://training.fortinet.com/admin/tool/certificate/index.php) |
-| Google IT Support                | 2024-02-28   | [Link](https://www.credly.com/badges/60c84266-de42-487c-801b-e0c480862af6/linked_in_profile) |
-
----
-
-## 💡 Skills & Expertise
-
-![Skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,spring,java,azure,docker,linux,python,git,github,vscode)
-
-- 🛡 Cybersecurity Strategy, Incident Response, Threat Intelligence
-- ⚙️ Backend Development (Node.js, Express, Spring Boot, REST APIs)
-- ☁️ Cloud Security (Azure, Fortinet)
-- 📚 Technical Writing & Documentation
-
----
-
-## 📊 GitHub Stats & Widgets
-
+👨‍💻 Thapelo Mthize
+Cybersecurity Analyst | Full-Stack Developer (In Progress)
+🛡️ Cybersecurity Projects
+Project	Description	Skills	Tools	Link
+SIEM Implementation	Built a SIEM in LogRhythm to monitor and detect threats	Log Management, Incident Response	Azure, LogRhythm	View
+Compliance Assessment	Security controls & auditing case study	Compliance, Security Frameworks	NIST Framework	View
+SSDP Botnet Detection	Detection & mitigation of SSDP-based botnets	Threat Analysis, Prevention	C&C, Network Tools	View
+Phishing Simulator	Training simulation for phishing awareness	Email Security, Awareness	Payload Simulation	View
+⚙️ Full-Stack Projects (In Progress 🚧)
+Currently mastering Node.js, Express, MongoDB, React, Spring Boot, REST APIs — with secure coding as a core principle.
+Project	Description	Status	Tech Stack
+Auth API Demo	JWT & bcrypt-based authentication	🔄 In Progress	Node.js, Express, MongoDB
+Spring Boot API Template	REST service with security headers	🔄 In Progress	Java, Spring Boot, Maven
+API Rate Limiter	Rate limiting to prevent abuse	🔄 In Progress	Express, Redis
+Secure React Dashboard	Role-based dashboard with API security	🔄 In Progress	React, Node.js, MongoDB
+Full-Stack Security Toolkit	Middleware + UI for secure practices	🔄 In Progress	React, Node.js, Helmet.js
+📜 Certifications
+Certification	Date	Link
+CompTIA Security+ (Pending)	—	—
+Certified REST Engineer	2024-07-15	Verify
+Certified SOC Analyst	2024-07-07	Verify
+Threat Intelligence	2024-05-11	Verify
+Network Security Expert	2024-04-20	Verify
+Google IT Support	2024-02-28	Verify
+💡 Skills & Tools
+<div align="center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /> <img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=java&logoColor=white" /> <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" /> <img src="https://img.shields.io/badge/Express-000000?style=for-the-badge&logo=express&logoColor=white" /> <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" /> <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" /> <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=spring&logoColor=white" /> <img src="https://img.shields.io/badge/Azure-0089D6?style=for-the-badge&logo=microsoft-azure&logoColor=white" /> <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" /> <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" /> <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" /> <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /> <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" /> <img src="https://img.shields.io/badge/Fortinet-EE3124?style=for-the-badge&logo=fortinet&logoColor=white" /> <img src="https://img.shields.io/badge/OWASP-1F8ACB?style=for-the-badge&logo=owasp&logoColor=white" /> </div>
+🚀 Now Learning & Roadmap
+Building a strong foundation in full-stack development while integrating advanced cybersecurity practices.
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mthize&show_icons=true&theme=tokyonight&hide_border=false" height="180px"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mthize&theme=tokyonight" height="180px"/>
+Area	Current Skill Level	Learning Progress
+Frontend (React / Next.js)	Intermediate	
+Backend (Node.js, Express, Spring Boot)	Intermediate	
+Databases (MongoDB, PostgreSQL)	Beginner-Intermediate	
+REST & GraphQL APIs	Intermediate	
+DevOps & CI/CD	Beginner	
+Cloud & Security (Azure, Fortinet)	Intermediate	
+Secure Coding & OWASP	Beginner-Intermediate	
 </div>
-
-<br/>
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mthize&theme=monokai" />
-</div>
-
-<br/>
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=Mthize&label=Visitors+since+2024&color=0e75b6&style=flat-square" alt="visitor badge"/>
-</div>
-
----
-
-## ✍️ Blogs & Articles
-
-- [🔐 Understanding the Modern Digital Battlefield](https://www.linkedin.com/pulse/cyber-threats-attacks-understanding-modern-digital-thapelo-mthize-d1aze)
-- [🕵️ SSDP Botnets: Hiding in Plain Sight](https://www.linkedin.com/pulse/ssdp-botnets-silent-threat-lurking-your-network-thapelo-mthize-ewrif)
-
----
-
-## 🌐 Connect with Me
-
-<div align="center">
-  <a href="https://linkedin.com/in/thapelomthize">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:mthizethapelo@icloud.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://www.credly.com/users/thapelo-mthize">
-    <img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" />
-  </a>
-</div>
-
----
-
-Thanks for visiting! 🎯 Let’s innovate, secure, and build powerful tech together.
-
-> ⚡ *“Security isn’t just a feature — it’s the foundation.”*
+⚡ Goal: Become a full-stack developer who builds secure, scalable, and production-ready applications.
+📊 GitHub Highlights
+<div align="center"> <img src="https://github-readme-stats.vercel.app/api?username=Mthize&show_icons=true&theme=tokyonight" height="180px"/> <img src="https://github-readme-streak-stats.herokuapp.com/?user=Mthize&theme=tokyonight" height="180px"/> </div> <div align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Mthize&theme=monokai" /> </div> <div align="center"> <img src="https://komarev.com/ghpvc/?username=Mthize&label=Visitors+since+2024&color=0e75b6&style=flat-square" alt="visitor badge"/> </div>
+✍️ Writing & Articles
+🔐 Understanding the Modern Digital Battlefield
+🕵️ SSDP Botnets: Hiding in Plain Sight
+🌐 Let’s Connect
+<div align="center"> <a href="https://linkedin.com/in/thapelomthize"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a> <a href="mailto:mthizethapelo@icloud.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a> <a href="https://www.credly.com/users/thapelo-mthize"><img src="https://img.shields.io/badge/Credly-FF6B00?style=for-the-badge&logo=credly&logoColor=white" /></a> </div>
+✨ “Security isn’t just a feature — it’s the foundation of every great system.”
