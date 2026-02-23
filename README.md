@@ -66,55 +66,44 @@ Focused on applied security, monitoring, and threat analysis.
 * **[🔎 SIEM Implementation](https://github.com/Mthize/SIEM-Chronicle)** — Security monitoring implementation using structured log analysis and detection workflows.  
 * **[🌐 SSDP Botnet Detection](https://github.com/Mthize/SSDP-Botnet-Detection)** — Network-based threat detection and botnet traffic analysis.  
 
-**These projects reflect my ability to operate at both:**
-`Application level` • `Infrastructure level` • `Network level`
+**These projects reflect my ability to operate at both:** `Application level` • `Infrastructure level` • `Network level`
 
 ---
 
 ## 🧰 Core Tech Stack
 
 ### Frontend
-![React](https://img.shields.io/badge/react-%2320232a.svg?style=flat&logo=react&logoColor=%2361DAFB)
-![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=flat&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
-![Vite](https://img.shields.io/badge/vite-%23646CFF.svg?style=flat&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=flat&logo=tailwind-css&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 ### Backend
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=flat&logo=node.js&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=flat&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-black?style=flat&logo=JSON%20web%20tokens)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
 
 ### Systems Programming
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=flat&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=flat&logo=c-sharp&logoColor=white)
+![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
 
 ### Environment & Tooling
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=flat&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=flat&logo=docker&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
 ---
 
 ## 📜 Certifications
 
-- 🏆 **Certified SOC Analyst** - 🏆 **Threat Intelligence Certified** - 🏆 **Network Security Certified** - 🏆 **Certified REST Engineer** - 🏆 **Google IT Support** - 🏆 **Google CyberSecurity** - ⏳ *CompTIA Security+ (In Progress)* ---
+- 🏆 **Certified SOC Analyst** - 🏆 **Threat Intelligence Certified** - 🏆 **Network Security Certified** - 🏆 **Certified REST Engineer** - 🏆 **Google IT Support** - ⏳ *CompTIA Security+ (In Progress)* ---
 
 ## 📊 GitHub Activity
 
 <div align="center">
-
-  <table>
-    <tr>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api?username=Mthize&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" height="170" alt="GitHub Stats" />
-      </td>
-      <td align="center">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mthize&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" height="170" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-
+  <img src="https://github-readme-stats.vercel.app/api?username=Mthize&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" height="170" alt="GitHub Stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mthize&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" height="170" alt="Top Languages" />
 </div>
 
 ---
@@ -131,9 +120,9 @@ Focused on applied security, monitoring, and threat analysis.
 
 ## 🌐 Connect
 
-* **LinkedIn:** [linkedin.com/in/thapelomthize](https://linkedin.com/in/thapelomthize)  
-* **Email:** [mthizethapelo@icloud.com](mailto:mthizethapelo@icloud.com)  
-* **Credly:** [View Badges](https://www.credly.com/users/thapelo-mthize)  
+* **LinkedIn:** [Thapelo Mthize](https://linkedin.com/in/thapelomthize)  
+* **Email:** [Send me an email](mailto:mthizethapelo@icloud.com)  
+* **Credly:** [View my Verified Badges](https://www.credly.com/users/thapelo-mthize)  
 
 <div align="center">
   <br />
