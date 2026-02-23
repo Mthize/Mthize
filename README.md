@@ -126,19 +126,11 @@ Focused on applied security, monitoring, and threat analysis.
 
 ## 📊 GitHub Activity
 
-<div align="center">
+## 📊 GitHub Activity
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api?username=Mthize&show_icons=true&hide_border=true&count_private=true&theme=github_dark" 
-    height="170"
-  />
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mthize&show_icons=true&theme=github_dark&hide_border=true)
 
-  <img 
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mthize&layout=compact&hide_border=true&theme=github_dark" 
-    height="170"
-  />
-
-</div>
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mthize&layout=compact&theme=github_dark&hide_border=true)
 
 ---
 
