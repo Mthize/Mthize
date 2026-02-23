@@ -42,7 +42,7 @@
 ### [🌐 Awwwards-Style Interactive Website](https://github.com/Mthize/Awwwards-Winning-Website)
 > *High-performance interactive frontend inspired by award-level design systems.*
 
-* **Stack:** JavaScript · React 14 · GSAP · ScrollTrigger · TailwindCSS  
+* **Stack:** JavaScript · React · GSAP · ScrollTrigger · TailwindCSS  
 * **Focus:** Motion architecture, performance optimization, advanced scroll animation systems  
 
 ### [⚙️ Hash Table Implementation (C)](https://github.com/Mthize/hash-table)
@@ -72,38 +72,72 @@ Focused on applied security, monitoring, and threat analysis.
 
 ## 🧰 Core Tech Stack
 
-### Frontend
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
-![Vite](https://img.shields.io/badge/Vite-646CFF?style=for-the-badge&logo=vite&logoColor=white)
-![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### Backend
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
-![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+### 🖥 Frontend
+![React](https://img.shields.io/badge/React-0D1117?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TypeScript](https://img.shields.io/badge/TypeScript-0D1117?style=for-the-badge&logo=typescript&logoColor=3178C6)
+![JavaScript](https://img.shields.io/badge/JavaScript-0D1117?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![Vite](https://img.shields.io/badge/Vite-0D1117?style=for-the-badge&logo=vite&logoColor=646CFF)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-0D1117?style=for-the-badge&logo=tailwindcss&logoColor=38B2AC)
 
-### Systems Programming
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=csharp&logoColor=white)
+---
 
-### Environment & Tooling
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+### 🗄 Backend
+![Node.js](https://img.shields.io/badge/Node.js-0D1117?style=for-the-badge&logo=node.js&logoColor=339933)
+![MongoDB](https://img.shields.io/badge/MongoDB-0D1117?style=for-the-badge&logo=mongodb&logoColor=47A248)
+![JWT](https://img.shields.io/badge/JWT-0D1117?style=for-the-badge&logo=jsonwebtokens&logoColor=white)
+
+---
+
+### ⚙️ Systems Programming
+![C](https://img.shields.io/badge/C-0D1117?style=for-the-badge&logo=c&logoColor=00599C)
+![C#](https://img.shields.io/badge/C%23-0D1117?style=for-the-badge&logo=csharp&logoColor=239120)
+
+---
+
+### 🛡 Security & Threat Analysis
+![OWASP](https://img.shields.io/badge/OWASP-0D1117?style=for-the-badge&logo=owasp&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-0D1117?style=for-the-badge&logo=wireshark&logoColor=1679A7)
+
+---
+
+### 🐧 Environment & Tooling
+![Linux](https://img.shields.io/badge/Linux-0D1117?style=for-the-badge&logo=linux&logoColor=FCC624)
+![Git](https://img.shields.io/badge/Git-0D1117?style=for-the-badge&logo=git&logoColor=F05032)
+![Docker](https://img.shields.io/badge/Docker-0D1117?style=for-the-badge&logo=docker&logoColor=2496ED)
 
 ---
 
 ## 📜 Certifications
 
-- 🏆 **Certified SOC Analyst** - 🏆 **Threat Intelligence Certified** - 🏆 **Network Security Certified** - 🏆 **Certified REST Engineer** - 🏆 **Google IT Support** - ⏳ *CompTIA Security+ (In Progress)* ---
+### 🛡 Security Certifications
+- 🏆 **Certified SOC Analyst (CSA)**
+- 🏆 **Threat Intelligence Certified**
+- 🏆 **Network Security Certified**
+- 🏆 **Google CyberSecuirty Professional Certificate**
+- ⏳ **CompTIA Security+** *(In Progress)*
+
+---
+
+### 💻 Technical & Infrastructure
+- 🏆 **Certified REST Engineer**
+- 🏆 **Google IT Support Professional Certificate**
+
 
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Mthize&show_icons=true&hide_border=true&title_color=ffffff&icon_color=ffffff&text_color=ffffff&bg_color=0d1117" height="170" alt="GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mthize&layout=compact&hide_border=true&title_color=ffffff&text_color=ffffff&bg_color=0d1117" height="170" alt="Top Languages" />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api?username=Mthize&show_icons=true&hide_border=true&count_private=true&theme=github_dark" 
+    height="170"
+  />
+
+  <img 
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mthize&layout=compact&hide_border=true&theme=github_dark" 
+    height="170"
+  />
+
 </div>
 
 ---
