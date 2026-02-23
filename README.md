@@ -123,15 +123,11 @@ Focused on applied security, monitoring, and threat analysis.
 - 🏆 **Certified REST Engineer**
 - 🏆 **Google IT Support Professional Certificate**
 
-
 ## 📊 GitHub Activity
 
-## 📊 GitHub Activity
+![GitHub Streak](https://streak-stats.demolab.com?user=Mthize&theme=github-dark&hide_border=true)
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mthize&show_icons=true&theme=github_dark&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mthize&layout=compact&theme=github_dark&hide_border=true)
-
+![Top Languages](https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Mthize&layout=compact&theme=github_dark&hide_border=true)
 ---
 
 ## 🎯 Engineering Philosophy
