@@ -1,6 +1,6 @@
 # Hey there! 👋
 
-I'm **Thapelo Mthize** — a cybersecurity analyst and software developer.
+I'm **Thapelo Mthize** a software developer and cybersecurity analyst.
 
 I build secure web apps, backend systems, and low-level projects with a strong focus on security, performance, and clean design.
 
