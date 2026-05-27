@@ -22,8 +22,6 @@ Former overthinker of bugs. Current believer in clean code, useful tools, readab
 
 ## Connect
 
-- [LinkedIn](https://linkedin.com/in/thapelomthize)
-- [Email](mailto:mthizethapelo@icloud.com)
-- [Credly](https://www.credly.com/users/thapelo-mthize)
+- [LinkedIn](https://linkedin.com/in/thapelomthize) | [Email](mailto:mthizethapelo@icloud.com) | [Credly](https://www.credly.com/users/thapelo-mthize)
 
 Vibe coding is obsolete, real ones aura code.
